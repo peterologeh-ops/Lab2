@@ -1,6 +1,8 @@
-﻿//PART 1 - Road Trip
-using System.Runtime.ConstrainedExecution;
-using System.Web;
+﻿/*
+
+*/
+//PART 1 - Road Trip
+
 
 Console.Write("What was the round trip distance in miles? ");
 int milesForTheTrip = Convert.ToInt32(Console.ReadLine());
