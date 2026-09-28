@@ -1,5 +1,9 @@
 ﻿/*
-
+* Name: Peter Ologeh
+* Course: CSCI 1250, Section 001
+* Assignment: Lab 02, Trip Calculator
+* Date: September 22, 2026
+* Description: Calculates the fuel, food, and work hours behind one road trip.
 */
 //PART 1 - Road Trip
 
